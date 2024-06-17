@@ -1,16 +1,6 @@
 # clima_final
 
-A new Flutter project.
+It's a Weather app to get the latest weather information, and we can also get weather info about any desired location.
+![image](https://github.com/s2ahil/Clima-the-weather-app/assets/101473078/e4654150-f6b1-4700-8707-f0277d75853f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/s2ahil/Clima-the-weather-app/assets/101473078/1ed716e6-4fda-4483-b51f-b55f6a6815d7)
